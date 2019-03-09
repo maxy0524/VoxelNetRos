@@ -10,7 +10,7 @@ VoxelNet Implementation codes from "https://github.com/qianguih/voxelnet"
 * numba
 * easydict
 * ROS
-* jsk package
+* jsk package https://github.com/jsk-ros-pkg/jsk_recognition
   
 ### Data Preparation
 Download the test data: https://pan.baidu.com/s/1kxZxrjGHDmTt-9QRMd_kOA
