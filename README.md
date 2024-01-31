@@ -2,6 +2,14 @@
 ----
 VoxelNet Implementation codes from "https://github.com/qianguih/voxelnet"
 
+### envs:
+* ubuntu 20.04
+
+```shell
+sudo apt-get install python3.5
+sudo apt install python3.5 python3.5-dev python3.5-venv
+```
+
 ### Dependencies
 * python3.5+
 * TensorFlow (tested on 1.4)
@@ -34,6 +42,11 @@ before run the code, you may need to install:
 - `roscd voxelnet/script/`
 - `python3 voxelnet_ros.py & python3 pub_kitti_point_cloud.py` 
   - unfortunately, `rosrun` won't work. because it's using Python 3.x instead of 2.x
+
+### ma upate:
+
+- python3.5 voxelnet_ros.py & python3.5 pub_kitti_point_cloud.py
+
   
 ### ROS Node 
 
