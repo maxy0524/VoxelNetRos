@@ -4,10 +4,14 @@ VoxelNet Implementation codes from "https://github.com/qianguih/voxelnet"
 
 ### envs:
 * ubuntu 20.04
+* ROS:noetic
 
 ```shell
 sudo apt-get install python3.5
 sudo apt install python3.5 python3.5-dev python3.5-venv
+
+sudo apt-get install ros-noetic-jsk-recognition-msgs 
+sudo apt-get install ros-noetic-jsk-rviz-plugins
 ```
 
 ### Dependencies
